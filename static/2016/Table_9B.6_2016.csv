@@ -1,0 +1,31 @@
+S. No. (Col.1),Category (Col.2),Crime Head (Col.3),Cases Pending Trial from the Previous Year (Col.4),Cases Sent for Trial during the Year (Col.5),Total Cases for Trial during the Year (Col.6) = (Col.4+5),Number of Cases Withdrawn by Govt. (Col.7),Number of Cases Disposed by Plea Bargaining (Col.8),Cases Compounded (Col.9),Cases in which Trials were Completed (Col.10) = (Col.11+12),Cases Convicted (Col.11),Cases Acquitted or Discharged (Col.12),Total Cases Disposed off by Courts (Col.13) = (Col.7+ Col.8),Cases Pending Trial at the End of the Year (Col.14) = (Col.6 - Col.11),Conviction Rate (Col.15) = (Col.9/ Col.8) * 100,Pendency Percentage (Col.16) = (Col.12/ Col.6) * 100
+1,A) Offences under IT Act,IT - Tampering computer source documents,10,9,19,0,0,0,2,0,2,2,17,0,89.5
+2,A) Offences under IT Act,IT - Computer Related Offences (Section 66 and Section 66B to 66E),646,512,1158,0,0,0,71,8,63,71,1087,11.3,93.9
+2.1,A) Offences under IT Act,Computer Related Offences-Under Section 66,532,389,921,0,0,0,63,7,56,63,858,11.1,93.2
+2.2,A) Offences under IT Act,Computer Related Offences-Under Section 66B,8,7,15,0,0,0,0,0,0,0,15,NA,100
+2.3,A) Offences under IT Act,Computer Related Offences-Under Section 66C,77,82,159,0,0,0,4,1,3,4,155,25,97.5
+2.4,A) Offences under IT Act,Computer Related Offences-Under Section 66D,23,32,55,0,0,0,4,0,4,4,51,0,92.7
+2.5,A) Offences under IT Act,Computer Related Offences-Under Section 66E,6,2,8,0,0,0,0,0,0,0,8,NA,100
+3,A) Offences under IT Act,IT - Cyber Terrorism (Section 66F),0,0,0,0,0,0,0,0,0,0,0,NA,NA
+4,A) Offences under IT Act,IT - Publication/Transmission of Obscene/ Sexually Explicit Content,47,55,102,0,0,0,5,3,2,5,97,60,95.1
+4.1,A) Offences under IT Act,Under Section 67 And Section 67A,47,55,102,0,0,0,5,3,2,5,97,60,95.1
+4.2,A) Offences under IT Act,Under Section 67B,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+4.3,A) Offences under IT Act,Under Section 67C,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+5,A) Offences under IT Act,IT - Breach of Confidentiality/Privacy & Disclosure of Information in Breach of Contract,0,2,2,0,0,0,0,0,0,0,2,NA,100
+6,A) Offences under IT Act,IT - Others,91,23,114,0,0,0,4,3,1,4,110,75,96.5
+Total (A),A) Offences under IT Act,Total (A),794,601,1395,0,0,0,82,14,68,82,1313,17.1,94.1
+1,B) Offences under IPC,IPC - Data Theft,12,5,17,0,0,0,0,0,0,0,17,NA,100
+2,B) Offences under IPC,IPC - Criminal Breach of Trust/Fraud,15,6,21,0,0,0,0,0,0,0,21,NA,100
+2.1,B) Offences under IPC,IPC - Credit /Debit Card Fraud,4,1,5,0,0,0,0,0,0,0,5,NA,100
+2.2,B) Offences under IPC,IPC - Other Fraud,11,5,16,0,0,0,0,0,0,0,16,NA,100
+3,B) Offences under IPC,IPC - Cheating,158,82,240,0,0,0,2,0,2,0,238,0,99.2
+4,B) Offences under IPC,IPC - Forgery,32,9,41,0,0,0,0,0,0,0,41,NA,100
+5,B) Offences under IPC,IPC - Counterfeiting,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+6,B) Offences under IPC,IPC - Fabrication/Destruction of Electronic Records for Evidence,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+7,B) Offences under IPC,IPC - Others,309,106,415,0,0,0,10,4,6,0,405,40,97.6
+Total (B),B) Offences under IPC,Total (B),526,208,734,0,0,0,12,4,8,0,722,33.3,98.4
+1,C) Offences Under SLL,"Copyright Act, 1957",75,3,78,0,0,0,1,0,1,1,77,0,98.7
+2,C) Offences Under SLL,"Trade Marks Act, 1999",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+3,C) Offences Under SLL,Other SLL Offences,6,1,7,0,0,0,0,0,0,0,7,NA,100
+Total ( C),C) Offences Under SLL,Total ( C),81,4,85,0,0,0,1,0,1,1,84,0,98.8
+Grand Total (A+B+C),Grand Total (A+B+C),Grand Total (A+B+C),1401,813,2214,0,0,0,95,18,77,95,2119,18.9,95.7

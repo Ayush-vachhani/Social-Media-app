@@ -1,0 +1,50 @@
+S. No. (Col.1),Category (Col.2),Crime Head (Col.3),Cases Pending Trial from the Previous Year (Col.4),Cases Sent for Trial during the year (Col.5),Total Cases for Trial (Col.6=Col.4+ Col.5),Cases Abated by Court (Col.7),Cases Withdrawn From Prosecution (Col.8),Cases Compounded or Compromised (Col.9),Cases Disposed off by Plea Bargaining (Col.10),Cases Quashed (Col.11),Cases Disposed off Without Trial (Col.12=Col.7+Col.8+Col.9+Col.10+Col.11),Cases Stayed or Sent to Record Room (Col.13),Cases Convicted Out of Cases from Previous Year (Col.14),Cases Convicted Out of Cases during the Year (Col.15),Cases Convicted (Col.16=Col.14+ Col.15),Cases Discharged (Col.17),Cases Acquitted (Col.18),Cases in which Trials were Completed (Col.19=Col.16+ Col.17+ Col.18),Cases Disposed off by Courts (Col.20=Col.12+ Col.19),Cases Pending Trial at End of the Year (Col.21=Col.6 - Col.20),Conviction Rate (Col.22=Col.16/ Col.19) *100,Pendency Percentage (Col.23=Col.21/ Col.6) *100
+1,Offences under I.T. Act,Tampering Computer Source Documents,17,5,22,0,0,0,0,0,0,0,0,0,0,0,1,1,1,21,0,95.5
+2,Offences under I.T. Act,Computer Related offences,971,490,1461,0,2,12,0,1,15,0,3,0,3,1,40,44,59,1402,6.8,96
+2.1,Offences under I.T. Act,Computer Related offences,723,230,953,0,1,0,0,0,1,0,1,0,1,0,21,22,23,930,4.5,97.6
+2.1.1,Offences under I.T. Act,Ransom-ware,75,56,131,0,1,0,0,0,1,0,0,0,0,0,0,0,1,130,NA,99.2
+2.1.2,Offences under I.T. Act,offences other than Ransom-ware,648,174,822,0,0,0,0,0,0,0,1,0,1,0,21,22,22,800,4.5,97.3
+2.2,Offences under I.T. Act,Dishonestly Receiving Stolen Computer Resource or Communication Device,14,3,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,NA,100
+2.3,Offences under I.T. Act,IdentIty Theft,142,131,273,0,0,0,0,0,0,0,2,0,2,1,2,5,5,268,40,98.2
+2.4,Offences under I.T. Act,Cheating by Personation by using Computer Resource,85,116,201,0,1,12,0,1,14,0,0,0,0,0,17,17,31,170,0,84.6
+2.5,Offences under I.T. Act,Violation of Privacy,7,10,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,NA,100
+3,Offences under I.T. Act,Cyber Terrorism,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+4,Offences under I.T. Act,Publication/Transmission of Obscene/Sexually ExplicIT Act in Electronic Form,116,108,224,2,0,3,0,0,5,0,2,0,2,0,10,12,17,207,16.7,92.4
+4.1,Offences under I.T. Act,Publishing or Transmitting Obscene Material in Electronic Form,51,81,132,2,0,0,0,0,2,0,1,0,1,0,2,3,5,127,33.3,96.2
+4.2,Offences under I.T. Act,Publishing or Transmitting of Material Containing Sexually Explicit Act in Electronic Form,63,24,87,0,0,3,0,0,3,0,1,0,1,0,7,8,11,76,12.5,87.4
+4.3,Offences under I.T. Act,Publishing or Transmitting of Material Depicting Children in Sexually Explicit Act in Electronic Form,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+4.4,Offences under I.T. Act,Preservation and Retention of Information by Intermediaries,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+4.5,Offences under I.T. Act,Other Sections 67 IT Act,2,2,4,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0,75
+5,Offences under I.T. Act,Interception or MonItoring or Decryption of Information,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+6,Offences under I.T. Act,Un-Authorized Access/Attempt to Access to Protected Computer System,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,NA,100
+7,Offences under I.T. Act,Abetment to Commit offences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+8,Offences under I.T. Act,Attempt to Commit offences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+9,Offences under I.T. Act,Other Sections of IT Act,113,98,211,0,1,5,0,2,8,0,2,0,2,0,13,15,23,188,13.3,89.1
+10,Offences under I.T. Act,Total offences under I.T. Act,1218,703,1921,2,3,20,0,3,28,0,7,0,7,1,64,72,100,1821,9.7,94.8
+11,Offences under IPC,Abetment of Suicide (online),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+12,Offences under IPC,Cyber Stalking/bullying of Women/children,9,61,70,0,0,0,0,0,0,0,1,0,1,0,1,2,2,68,50,97.1
+13,Offences under IPC,Data Theft,17,1,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,NA,100
+14,Offences under IPC,Fraud,112,107,219,0,0,0,0,0,0,0,1,0,1,0,0,1,1,218,100,99.5
+14.1,Offences under IPC,Credit Card/Debit Card,5,12,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,NA,100
+14.2,Offences under IPC,ATMs,75,59,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134,NA,100
+14.3,Offences under IPC,Online Banking Fraud,16,10,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,NA,100
+14.4,Offences under IPC,OTP Frauds,7,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,NA,100
+14.5,Offences under IPC,Others,9,24,33,0,0,0,0,0,0,0,1,0,1,0,0,1,1,32,100,97
+15,Offences under IPC,Cheating,214,61,275,0,0,1,0,0,1,0,0,0,0,1,6,7,8,267,0,97.1
+16,Offences under IPC,Forgery,41,11,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,NA,100
+17,Offences under IPC,Defamation/Morphing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+18,Offences under IPC,Fake Profile,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,NA,100
+19,Offences under IPC,Counterfeiting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+19.1,Offences under IPC,Currency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+19.2,Offences under IPC,Stamps,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+20,Offences under IPC,Cyber Blackmailing/Threatening,1,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,NA,100
+21,Offences under IPC,Fake News on Social Media,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,NA,100
+22,Offences under IPC,Other offences,396,81,477,0,0,2,0,0,2,0,1,1,2,1,2,5,7,470,40,98.5
+23,Offences under IPC,Total Offences under IPC,790,333,1123,0,0,3,0,0,3,0,3,1,4,2,9,15,18,1105,26.7,98.4
+24,Offences under SLL,Gambling Act (online Gambling),1,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,NA,100
+25,Offences under SLL,Lotteries Act (online Lotteries),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+26,Offences under SLL,Copy Right Act,6,4,10,0,0,0,0,0,0,0,0,0,0,1,0,1,1,9,0,90
+27,Offences under SLL,Trade Marks Act,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+28,Offences under SLL,Other SLL Crimes,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,NA,100
+29,Offences under SLL,Total offences under SLL,13,9,22,0,0,0,0,0,0,0,0,0,0,1,0,1,1,21,0,95.5
+Total Cyber Crimes,Total Cyber Crimes,Total Cyber Crimes,2021,1045,3066,2,3,23,0,3,31,0,10,1,11,4,73,88,119,2947,12.5,96.1
